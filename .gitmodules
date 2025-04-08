@@ -1,0 +1,6 @@
+[submodule "opel-tid-display-reader"]
+	path = opel-tid-display-reader
+	url = git@github.com:walczakp/opel-tid-display-reader.git
+[submodule "vag-fis-radio-text-spi"]
+	path = vag-fis-radio-text-spi
+	url = git@github.com:walczakp/vag-fis-radio-text-spi.git
